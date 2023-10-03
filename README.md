@@ -28,4 +28,4 @@ make
 
 Once the shell is compiled, it can be run with:
 
-./shell
+./wish
