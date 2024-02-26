@@ -18,7 +18,7 @@ Please refer to the documentation for a comprehensive list and description of al
 You can clone the repository and compile the source code on any Linux machine. Here's a step-by-step guide:
 
 # Clone the repository
-git clone https://github.com/Photis14/Replica-Shell.git
+git clone https://github.com/Photis14/Linux-shell-terminal-replica.git
 
 # Navigate into the directory
 cd Replica-Shell
