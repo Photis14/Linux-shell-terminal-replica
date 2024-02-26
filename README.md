@@ -21,7 +21,7 @@ You can clone the repository and compile the source code on any Linux machine. H
 git clone https://github.com/Photis14/Linux-shell-terminal-replica.git
 
 # Navigate into the directory
-cd Replica-Shell
+cd src
 
 # Compile the source code
 make
